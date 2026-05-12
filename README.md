@@ -2,5 +2,7 @@
 
 ### Ministrado pela Professora Edilma Bindá no ano de 2026.
 
-### Artur David Chagas Aguiar
+### Gustavo Vieira Lima 
+
+<img src="https://www.clipartmax.com/png/middle/439-4398222_black-spider-siluet-logo-png-image-logo-spiderman.png" alt="Black Spider Siluet Logo Png Image - Logo Spiderman@clipartmax.com">
 

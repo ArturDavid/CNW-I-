@@ -1,8 +1,9 @@
- # COMPUTAÇÃO PARA WEB
+## Atividade de criação de site usando metodologia de computação em nuvem.
 
-### Ministrado pela Professora Edilma Bindá no ano de 2026.
+Alunos: Artur David e Gustavo Vieira Série: 2°F
 
-### Artur David e Gustavo Vieira
+### Este repositório inclui:
 
-<img src="https://www.clipartmax.com/png/middle/439-4398222_black-spider-siluet-logo-png-image-logo-spiderman.png" alt="Black Spider Siluet Logo Png Image - Logo Spiderman@clipartmax.com">
+Planejamento (Anexado em PDF)
 
+Site (Finalizado), hospedado em: https://informaticamcm.netlify.app/  <span style=color: red:>
